@@ -1,0 +1,60 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>😍MEGHA </title>
+</head>
+<body>
+<table cellspacing="20" >
+<tr>
+<td><img src =" /home/stuti/Desktop/html/images.jpeg " alt ="My Image"></td>
+<td><h2>My name is Stuti</h2>
+I am in <em><b>Dehradun</b></em></td>
+</tr>
+</table>
+
+<!-- <img src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt ="My Image"> -->
+<br>
+
+<hr size ="5" noshade>  <!-- horizontal line -->
+<h3>Skills </h3>
+
+<table>
+<tr>
+<td>
+<table cellspacing="10">
+<tr>
+<td>HTML</td>
+<td>⭐️⭐️⭐️⭐️⭐️</td>
+</tr>
+<tr>
+<td>JAVA </td>
+<td>⭐️⭐️⭐️⭐️⭐️</td>
+</tr>
+</table>
+</td>
+<td>
+<table cellspacing="20">
+<tr>
+<td>HTML</td>
+<td>⭐️⭐️⭐️⭐️⭐️</td>
+</tr>
+<tr>
+<td>JAVA </td>
+<td>⭐️⭐️⭐️⭐️⭐️</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<h3>😍Hobbies</h3>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=t7nrOBBfcYI" >Exercise</a></li>
+<li>Sleeping</li>
+<li><a href="https://eurama.hu/2017/02/08/benefits-of-travelling/ ">Travelling</a></li>
+</ul>
+<h3><a href="contact.html ">CONTACT ME </h3>
+</body>
+</html>
+
